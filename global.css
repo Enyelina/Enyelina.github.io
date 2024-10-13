@@ -1,0 +1,95 @@
+/*primera pagina*/
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #000000;
+}
+
+
+/* Header Styles */
+header {
+
+    /* color: rgb(202, 106, 106); */
+    padding: 1rem 0;
+    text-align: center;
+    background-image: url("/MyProjects/ProyectoFinal/SiteImage/ai_desc_ada_lovelace.webp");
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+    
+}
+
+nav ul {
+    list-style: none;
+    padding: 10;
+    margin-top: 1rem;
+    
+}
+
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: color 0.3s ease;
+    
+}
+
+nav ul li a:hover {
+    color: #ffbe19;
+}
+
+/* Main  */
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+/* Footer */
+footer {
+    background-color: #5858ff;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: absolute;
+    width: 100%;
+ 
+}
+
+.foot {
+    padding-left: 20px;
+}
