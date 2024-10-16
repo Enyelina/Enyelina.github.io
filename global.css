@@ -19,7 +19,7 @@ header {
 /*     color: rgb(202, 106, 106); */
     padding: 1rem 0;
     text-align: center;
-    background-image: url("/MyProjects/ProyectoFinal/SiteImage/ai_desc_ada_lovelace.webp");
+    background-image: url("ai_desc_ada_lovelace.webp");
     height: 200px;
     background-position: center;
     background-size: contain;
