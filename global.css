@@ -35,13 +35,15 @@ img {
 /*Actualizar el color del Nav  */
 
 nav{
-    background-color: rgb(202, 106, 106);
+   color:#CA6A6A;
+    
 }
 
 nav ul {
     list-style: none;
     padding: 10;
     margin-top: 1rem;
+    background-color:#CA6A6A;
     
 }
 
