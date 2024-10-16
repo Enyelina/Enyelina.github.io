@@ -35,7 +35,7 @@ img {
 /*Actualizar el color del Nav  */
 
 nav{
-    color: rgb(202, 106, 106);
+    background-color: rgb(202, 106, 106);
 }
 
 nav ul {
